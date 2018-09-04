@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Answer 1
+  - Answer 2
+  - Answer 3
+  - Answer
+  - Scatter
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Cube
+  - Trigger
+  - CGF Vote Areas
+  - Particles
+  - Space
+  - Cityscape
+  - Sprite
+  - Twitter
+  - Ambient
+  - LargeCubeCluster
+  - SmallCubeCluster
+  - EqualCubeCluster
+  - Left_Mid_Quadrant
+  - Right_Mid_Quadrant
+  - Right_Quadrant
+  - BarGraph
+  - Poll
+  - Activate
+  - UIFront
+  - SocialTakeaway
+  - UIPlayerCube
+  - PlayerCube
+  - UIBack
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: 2fa1de88fc34a2c499d03df39dd464b2
+timeCreated: 1476082555
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Univers LT Std
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 06e47e21ce0ba08458ded1e1ffd53ef4, type: 3}
+  - {fileID: 12800000, guid: 26cc44582d544f842b6af69c1e55a3fe, type: 3}
+  - {fileID: 12800000, guid: 0ffd9fc834c3456459e3647d14b4335e, type: 3}
+  - {fileID: 12800000, guid: 01d845e93c459994c9544030056c4c7e, type: 3}
+  - {fileID: 12800000, guid: 2aef31ea07e3cff43b4d301dce0ac9dc, type: 3}
+  - {fileID: 12800000, guid: 0a99b18b5c6e415419fed11953a64329, type: 3}
+  - {fileID: 12800000, guid: 04a5d3bece69a1548aab2a84ca29ec78, type: 3}
+  - {fileID: 12800000, guid: 1496b89fb9ed409499b5003303de7e87, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
